@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=229000, RESOLUTION=852x480, AUDIO="audio"
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-VERSION:3
+#EXTINF:6.673
+no/loco_video_229000_0.ts
+#EXTINF:6.673
+no/loco_video_229000_1.ts
+#EXTINF:6.673
+no/loco_video_229000_2.ts
+#EXTINF:6.673
+no/loco_video_229000_3.ts
+#EXTINF:6.673
+no/loco_video_229000_4.ts
+#EXTINF:6.673
+no/loco_video_229000_5.ts
+#EXTINF:6.673
+no/loco_video_229000_6.ts
+#EXTINF:6.673
+no/loco_video_229000_7.ts
+#EXTINF:.834
+no/loco_video_229000_8.ts
+#EXT-X-ENDLIST
